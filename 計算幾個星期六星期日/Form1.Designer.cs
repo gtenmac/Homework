@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace 計算幾個星期六星期日
 {
     partial class Form1
     {

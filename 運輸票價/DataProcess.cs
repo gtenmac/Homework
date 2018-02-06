@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace WindowsFormsApp3
+namespace 運輸票價
 {
     class DataProcess
     {

@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp3
+﻿namespace 運輸票價
 {
     partial class Form1
     {
