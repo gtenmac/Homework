@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2027
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "字串替換", "字串替換\字串替換.csproj", "{0ACB14E7-E71E-4C9B-BD79-591319E701BB}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "運輸票價", "運輸票價\運輸票價.csproj", "{D97B5DFC-6B42-4199-8B59-7236A0EBE2BD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "業績計算", "..\業績計算\業績計算.csproj", "{ADF7CCA8-4024-40A3-9812-9F87464D72BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "累進稅率", "累進稅率\累進稅率.csproj", "{9FAF05C9-C454-484B-B1C6-703EC88E7E40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{ADF7CCA8-4024-40A3-9812-9F87464D72BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADF7CCA8-4024-40A3-9812-9F87464D72BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADF7CCA8-4024-40A3-9812-9F87464D72BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FAF05C9-C454-484B-B1C6-703EC88E7E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FAF05C9-C454-484B-B1C6-703EC88E7E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FAF05C9-C454-484B-B1C6-703EC88E7E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FAF05C9-C454-484B-B1C6-703EC88E7E40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
